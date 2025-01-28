@@ -1,7 +1,4 @@
-package com.rockpaperscissors.game
-
-import com.rockpaperscissors.Move
-import com.rockpaperscissors.Player
+package com.rockpaperscissors;
 class Game {
     fun playRounds(rounds: Int) {
         var playerAWins = 0

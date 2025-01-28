@@ -1,4 +1,4 @@
-package com.rockpaperscissors.game
+package com.rockpaperscissors
 
 import com.rockpaperscissors.Move
 import org.junit.jupiter.api.Assertions.assertEquals

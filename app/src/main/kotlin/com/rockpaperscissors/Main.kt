@@ -3,9 +3,6 @@
  */
 package com.rockpaperscissors
 
-import com.rockpaperscissors.game.Game
-
-
 fun main() {
     val game = Game()
     game.playRounds(100)
